@@ -1,0 +1,36 @@
+_repo: To-The-Work--To-The-Work--Exhortations-to-Christians_33014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moody, Dwight Lyman
+    aliases:
+    - Moody, Dwight L.
+    - Moody, D. L. (Dwight Lyman)
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '8911'
+    url: http://www.gutenberg.org/2009/agents/8911
+    wikipedia: http://en.wikipedia.org/wiki/Dwight_L._Moody
+description: ''
+gutenberg_issued: '2010-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evangelistic work'
+- !lcsh 'Sermons, American'
+- !lcsh 'Witness bearing (Christianity)'
+- !lcc 'BV'
+tableOfContents: '"Take ye away the stone" -- Love, the motive power for service --
+  Faith and courage -- Faith rewarded -- Enthusiasm -- The power of little things
+  -- "She hath done what she could" -- Who is my neighbor?" -- "Ye are the light of
+  the world."'
+title: To The Work! To The Work! Exhortations to Christians
+url: http://www.gutenberg.org/ebooks/33014
